@@ -1,8 +1,8 @@
-package Inheritance_and_Polymorphism_Experiment.Basic_Usage_of_Abstract_Classes;
+package Inheritance_and_Polymorphism_Experiment.Introduction_to_Inheritance;
 
-import Inheritance_and_Polymorphism_Experiment.Basic_Usage_of_Abstract_Classes.pet.Cat;
-import Inheritance_and_Polymorphism_Experiment.Basic_Usage_of_Abstract_Classes.pet.Dog;
-import Inheritance_and_Polymorphism_Experiment.Basic_Usage_of_Abstract_Classes.pet.Pet;
+import Inheritance_and_Polymorphism_Experiment.Introduction_to_Inheritance.pet.Cat;
+import Inheritance_and_Polymorphism_Experiment.Introduction_to_Inheritance.pet.Dog;
+import Inheritance_and_Polymorphism_Experiment.Introduction_to_Inheritance.pet.Pet;
 
 import java.time.LocalDate;
 

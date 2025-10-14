@@ -1,4 +1,4 @@
-package Inheritance_and_Polymorphism_Experiment.Basic_Usage_of_Abstract_Classes.pet;
+package Inheritance_and_Polymorphism_Experiment.Introduction_to_Inheritance.pet;
 
 import java.time.LocalDate;
 
