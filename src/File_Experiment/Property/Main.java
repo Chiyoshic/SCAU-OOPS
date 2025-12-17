@@ -1,7 +1,7 @@
-package File.Property;
+package File_Experiment.Property;
 
-import File.Property.Entity.DirectoryEntity;
-import File.Property.Entity.FileEntity;
+import File_Experiment.Property.Entity.DirectoryEntity;
+import File_Experiment.Property.Entity.FileEntity;
 
 import java.io.File;
 import java.util.Scanner;

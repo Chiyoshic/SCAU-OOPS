@@ -1,6 +1,5 @@
-package File.Statistics;
+package File_Experiment.Statistics;
 
-import java.io.File;
 import java.util.Scanner;
 
 public class Main {

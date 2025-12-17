@@ -1,4 +1,4 @@
-package File.Property.Entity;
+package File_Experiment.Property.Entity;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
